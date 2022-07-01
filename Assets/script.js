@@ -1,5 +1,4 @@
-console.log($(".saveBtn"));
-
+// Saving events
 $(".saveBtn").click(function (event) {
     event.preventDefault();
 
@@ -9,7 +8,7 @@ $(".saveBtn").click(function (event) {
 
     localStorage.setItem(hour, desc);
 
-  });
+});
 
 // Accessing local storage
 $("#hour-08 .description").val(localStorage.getItem("08"));
