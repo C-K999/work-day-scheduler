@@ -1,6 +1,6 @@
-# Third-Party APIs: [Work Day Scheduler]()
-
-This is a web application hosting a daily planner. The user may select any time between 8:00 AM to 7:00 PM, and from the time blocks enter an event from within. By clicking on the button on the right, the user may save the events so that the events labeled will persist even if the page were to be refreshed.
+# Third-Party APIs: [Work Day Scheduler](https://c-k999.github.io/work-day-scheduler/)
+- - -
+This is a web application hosting a daily schedule planner. The user may select any time between 8:00 AM to 7:00 PM, and from the time blocks enter an event from within. The blocks are color-coded in according to time, indicating whether an even is upcoming, or past. By clicking on the button on the right, the user may save the events so that the events labeled will persist even if the page were to be refreshed.
 
 ## Tools Used
 
@@ -27,9 +27,9 @@ At first glance, the above snippet may not seem special in any way. However, the
 
 The following image shows the web application's appearance:
 
-![The appearance of the untouched page](./Assets/03-javascript-challenge-demo.png)
+![The appearance of the untouched page](./Assets/demo.png)
 
-The following image shows the web application's functionality:
+The following image showcases the web application's functionality:
 
 ![The Work Day Scheduler in action.](./Assets/demo.gif)
 
